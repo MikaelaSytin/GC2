@@ -1,0 +1,16 @@
+[
+  {
+    "id": "bk-1762003268382",
+    "serviceId": "svc-1",
+    "serviceName": "Badminton - Single Court (mock)",
+    "unitId": "u-1",
+    "unitName": "Makati (Indoor #1)",
+    "date": "2025-11-02",
+    "time": "13:00",
+    "customerName": "Lauren Lee",
+    "contact": "639179375999",
+    "price": null,
+    "status": "confirmed_mock",
+    "createdAt": "2025-11-01T13:21:08.384Z"
+  }
+]
